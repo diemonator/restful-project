@@ -1,0 +1,10 @@
+D:\Fontys\rest-client\rest-client\bin\Debug\rest-client.exe.config
+D:\Fontys\rest-client\rest-client\bin\Debug\rest-client.exe
+D:\Fontys\rest-client\rest-client\bin\Debug\rest-client.pdb
+D:\Fontys\rest-client\rest-client\obj\Debug\rest-client.csprojAssemblyReference.cache
+D:\Fontys\rest-client\rest-client\obj\Debug\rest-client.csproj.CoreCompileInputs.cache
+D:\Fontys\rest-client\rest-client\obj\Debug\rest-client.exe
+D:\Fontys\rest-client\rest-client\obj\Debug\rest-client.pdb
+D:\Fontys\rest-client\rest-client\bin\Debug\Newtonsoft.Json.dll
+D:\Fontys\rest-client\rest-client\bin\Debug\Newtonsoft.Json.xml
+D:\Fontys\rest-client\rest-client\obj\Debug\rest-client.csproj.CopyComplete

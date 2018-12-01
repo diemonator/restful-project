@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : school-rent : student-rent.war">
+    <output-path>$PROJECT_DIR$/service/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/service" />
+    </properties>
+    <root id="archive" name="student-rent.war">
+      <element id="artifact" artifact-name="Gradle : school-rent : student-rent.war (exploded)" />
+    </root>
+  </artifact>
+</component>
